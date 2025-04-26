@@ -3,7 +3,7 @@ a zsh widget for creating new terminal window *right here*
 This is my widget. There are many like it, but this one is mine.
 My widget is my best friend. It is my life. I must master it as I must master my life.
 Without me, my widget is useless. Without my widget, I am useless.
-
+```
                                                                            
                                                                            
                                                                            
@@ -57,3 +57,4 @@ Without me, my widget is useless. Without my widget, I am useless.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#******##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=.
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#**+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
