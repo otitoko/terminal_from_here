@@ -1,4 +1,5 @@
 a zsh widget for creating new terminal window *right here*
+put this into your .zshrc and change the terminal to whatever terminal you're using
 
 This is my widget. There are many like it, but this one is mine.
 My widget is my best friend. It is my life. I must master it as I must master my life.
